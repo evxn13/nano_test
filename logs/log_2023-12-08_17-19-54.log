@@ -1,0 +1,46 @@
+2023-Dec-08 17:19:54:                                    _                 
+2023-Dec-08 17:19:54:  _ __   __ _ _ __   ___  _ __ ___ (_)_ __   ___ _ __ 
+2023-Dec-08 17:19:54: | '_ \ / _` | '_ \ / _ \| '_ ` _ \| | '_ \ / _ \ '__|
+2023-Dec-08 17:19:54: | | | | (_| | | | | (_) | | | | | | | | | |  __/ |   
+2023-Dec-08 17:19:54: |_| |_|\__,_|_| |_|\___/|_| |_| |_|_|_| |_|\___|_|   
+2023-Dec-08 17:19:54: 
+2023-Dec-08 17:19:54: Version 3.8.6-linux
+2023-Dec-08 17:19:54: Started EthMan server on port 3333 without a password (read-only mode).
+2023-Dec-08 17:19:54: Started web interface on port 9090 without a password.
+2023-Dec-08 17:19:54: NVIDIA driver version: 525.147.05 (12.0)
+2023-Dec-08 17:19:54: Single device detected
+2023-Dec-08 17:19:54: GPU 0 PCI 01:00.0, Platform: CUDA, Name: NVIDIA GeForce RTX 3070 Laptop GPU, 7973 MB available
+2023-Dec-08 17:19:54: ------------------Etchash:------------------
+2023-Dec-08 17:19:54: Currency: Ethereum Classic
+2023-Dec-08 17:19:54: Wallet: 0x9eab4b0fc468a7f5d46228bf5a76cb52370d068d
+2023-Dec-08 17:19:54: Rig name: Bashful_e82faad4
+2023-Dec-08 17:19:54: Email was not set.
+2023-Dec-08 17:19:54: Hashrate threshold to restart miner is not set
+2023-Dec-08 17:19:54: Number of rejected shares per hour to restart miner is not set
+2023-Dec-08 17:19:54: Added pool: etc-eu2.nanopool.org:19433
+2023-Dec-08 17:19:54: Added pool: etc-eu1.nanopool.org:19433
+2023-Dec-08 17:19:54: Added pool: etc-us-east1.nanopool.org:19433
+2023-Dec-08 17:19:54: Added pool: etc-us-west1.nanopool.org:19433
+2023-Dec-08 17:19:54: Added pool: etc-asia1.nanopool.org:19433
+2023-Dec-08 17:19:54: Added pool: etc-jp1.nanopool.org:19433
+2023-Dec-08 17:19:54: Added pool: etc-au1.nanopool.org:19433
+2023-Dec-08 17:19:54: Auto pool sorting is enabled
+2023-Dec-08 17:19:54: Using all GPU devices
+2023-Dec-08 17:19:54: -------------Common parameters:-------------
+2023-Dec-08 17:19:54: Log path: ./logs/
+2023-Dec-08 17:19:54: Log is written to file
+2023-Dec-08 17:19:54: GPU watchdog is enabled
+2023-Dec-08 17:19:54: Never calling reboot.sh (always restarting the miner in case of errors). 
+2023-Dec-08 17:19:55: Setting up algorithm: Etchash
+2023-Dec-08 17:19:55: -----------------------------------------------------------
+2023-Dec-08 17:19:55: | You are mining to a default wallet! Change it to yours! |
+2023-Dec-08 17:19:55: -----------------------------------------------------------
+2023-Dec-08 17:19:55: Connecting to pools...
+2023-Dec-08 17:19:55: Connected to pool: etc-eu2.nanopool.org:19433 | IP: 92.222.217.165 | ping: 291 ms.
+2023-Dec-08 17:19:55: New job from etc-eu2.nanopool.org:19433 | share difficulty = 10 GH, epoch 314 (3535 MB)
+2023-Dec-08 17:19:55: New job from etc-eu2.nanopool.org:19433
+2023-Dec-08 17:19:57: New job from etc-eu2.nanopool.org:19433
+2023-Dec-08 17:19:58: New job from etc-eu2.nanopool.org:19433
+2023-Dec-08 17:20:00: New job from etc-eu2.nanopool.org:19433
+2023-Dec-08 17:20:00: New job from etc-eu2.nanopool.org:19433
+2023-Dec-08 17:20:00: New job from etc-eu2.nanopool.org:19433
